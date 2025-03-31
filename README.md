@@ -6,7 +6,7 @@
 
 <h3>About Announcers</h3>
 <p>These resource packs are designed to work with Dread, a Minecraft utility mod designed for anarchy servers, primarily Constantiam.</p>
-<p>You are free to use these pack outside of their intended use, though without additional mods they do not function.</p>
+<p>You are free to use these packs outside of their intended use, though without additional mods they do not function.</p>
 
 <h3>Sounds Supported</h3>
 <ul>
