@@ -1,0 +1,16 @@
+{
+  "text.dread.kill_decoration.single": "KILL",
+  "text.dread.kill_decoration.double": "DOUBLE KILL",
+  "text.dread.kill_decoration.triple": "TRIPLE KILL",
+  "text.dread.kill_decoration.quadra": "QUADRAKILL",
+  "text.dread.kill_decoration.penta": "MULTIKILL",
+  "text.dread.kill_decoration.excessive": "MULTIKILL",
+  "subtitle.dread.announcer.kill": "Kill!",
+  "subtitle.dread.announcer.double_kill": "Double Kill!",
+  "subtitle.dread.announcer.triple_kill": "Triple Kill!",
+  "subtitle.dread.announcer.quadrakill": "Quadrakill!",
+  "subtitle.dread.announcer.pentakill": "Multikill!",
+  "subtitle.dread.announcer.excessive": "Multikill!",
+  "subtitle.dread.announcer.player_load": "Player spotted!",
+  "subtitle.dread.announcer.player_unload": "Player left!",
+}

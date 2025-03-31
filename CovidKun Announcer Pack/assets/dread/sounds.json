@@ -1,0 +1,65 @@
+{
+  "announcer.grenade": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.grenade",
+    "sounds": [
+      "dread:covid_grenade"
+    ]
+  },
+  "announcer.kill": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.kill",
+    "sounds": [
+      "dread:covid_kill"
+    ]
+  },
+  "announcer.double_kill": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.double_kill",
+    "sounds": [
+      "dread:covid_double_kill"
+    ]
+  },
+  "announcer.triple_kill": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.triple_kill",
+    "sounds": [
+      "dread:covid_triple_kill"
+    ]
+  },
+  "announcer.quadrakill": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.quadrakill",
+    "sounds": [
+      "dread:covid_quadrakill"
+    ]
+  },
+  "announcer.pentakill": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.pentakill",
+    "sounds": [
+      "dread:covid_multikill"
+    ]
+  },
+  "announcer.excessive": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.excessive",
+    "sounds": [
+      "dread:covid_multikill"
+    ]
+  },
+  "announcer.player.load": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.player_load",
+    "sounds": [
+      "dread:covid_player_spotted"
+    ]
+  },
+  "announcer.player.unload": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.player_unload",
+    "sounds": [
+      "dread:covid_player_left"
+    ]
+  }
+}
