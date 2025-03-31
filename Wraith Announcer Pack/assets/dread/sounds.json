@@ -1,0 +1,33 @@
+{
+  "announcer.grenade": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.grenade",
+    "sounds": [
+      "dread:wraith_grenade1",
+      "dread:wraith_grenade2",
+      "dread:wraith_grenade3",
+      "dread:wraith_grenade4",
+      "dread:wraith_grenade5",
+      "dread:wraith_grenade6",
+      "dread:wraith_grenade7",
+      "dread:wraith_grenade8",
+      "dread:wraith_incoming1",
+      "dread:wraith_incoming2"
+    ]
+  },
+  "announcer.player.load": {
+    "subtitle": "subtitle.dread.announcer.player_load",
+    "sounds": [
+      "dread:wraith_contact1",
+      "dread:wraith_contact2",
+      "dread:wraith_contact3",
+      "dread:wraith_contact4",
+      "dread:wraith_hostile1",
+      "dread:wraith_hostile2",
+      "dread:wraith_hostile3",
+      "dread:wraith_hostile4",
+      "dread:wraith_tango1",
+      "dread:wraith_tango2"
+    ]
+  }
+}
