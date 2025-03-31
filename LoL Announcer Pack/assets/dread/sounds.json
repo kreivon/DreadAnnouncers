@@ -1,0 +1,51 @@
+{
+  "announcer.kill": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.kill",
+    "sounds": [
+      "dread:lol_first_blood"
+    ]
+  },
+  "announcer.double_kill": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.double_kill",
+    "sounds": [
+      "dread:lol_double_kill"
+    ]
+  },
+  "announcer.triple_kill": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.triple_kill",
+    "sounds": [
+      "dread:lol_triple_kill"
+    ]
+  },
+  "announcer.quadrakill": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.quadrakill",
+    "sounds": [
+      "dread:lol_quadrakill"
+    ]
+  },
+  "announcer.pentakill": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.pentakill",
+    "sounds": [
+      "dread:lol_pentakill"
+    ]
+  },
+  "announcer.excessive": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.excessive",
+    "sounds": [
+      "dread:lol_legendary"
+    ]
+  },
+  "announcer.death": {
+  	"replace": true,
+    "subtitle": "subtitle.dread.announcer.death",
+    "sounds": [
+      "dread:lol_death"
+    ]
+  }
+}

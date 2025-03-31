@@ -1,0 +1,15 @@
+{
+  "text.dread.kill_decoration.single": "FIRST BLOOD",
+  "text.dread.kill_decoration.double": "DOUBLE KILL",
+  "text.dread.kill_decoration.triple": "TRIPLE KILL",
+  "text.dread.kill_decoration.quadra": "QUADRAKILL",
+  "text.dread.kill_decoration.penta": "PENTAKILL",
+  "text.dread.kill_decoration.excessive": "LEGENDARY",
+  "subtitle.dread.announcer.kill": "First Blood!",
+  "subtitle.dread.announcer.double_kill": "Double Kill!",
+  "subtitle.dread.announcer.triple_kill": "Triple Kill!",
+  "subtitle.dread.announcer.quadrakill": "Quadrakill!",
+  "subtitle.dread.announcer.pentakill": "Pentakill!",
+  "subtitle.dread.announcer.excessive": "Legendary!",
+  "subtitle.dread.announcer.death": "You died!"
+}
