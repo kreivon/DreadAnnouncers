@@ -1,0 +1,56 @@
+{
+  "announcer.grenade": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.grenade",
+    "sounds": [
+      "dread:plasma_1",
+      "dread:plasma_2",
+      "dread:plasma_3"
+    ]
+  },
+  "announcer.double_kill": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.double_kill",
+    "sounds": [
+      "dread:double_kill"
+    ]
+  },
+  "announcer.triple_kill": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.triple_kill",
+    "sounds": [
+      "dread:triple_kill"
+    ]
+  },
+  "announcer.quadrakill": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.quadrakill",
+    "sounds": [
+      "dread:overkill"
+    ]
+  },
+  "announcer.pentakill": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.pentakill",
+    "sounds": [
+      "dread:killtacular"
+    ]
+  },
+  "announcer.excessive": {
+    "replace": true,
+    "subtitle": "subtitle.dread.announcer.excessive",
+    "sounds": [
+      "dread:killtrocity"
+    ]
+  },
+  "announcer.death": {
+  	"replace": true,
+    "subtitle": "subtitle.dread.announcer.death",
+    "sounds": [
+      {
+        "name": "dread:game_over",
+        "volume": 0.5
+      }
+    ]
+  }
+}

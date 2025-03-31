@@ -1,0 +1,16 @@
+{
+  "text.dread.kill_decoration.single": "KILL",
+  "text.dread.kill_decoration.double": "DOUBLE KILL",
+  "text.dread.kill_decoration.triple": "TRIPLE KILL",
+  "text.dread.kill_decoration.quadra": "OVERKILL",
+  "text.dread.kill_decoration.penta": "KILLTACULAR",
+  "text.dread.kill_decoration.excessive": "KILLTROCITY",
+  "subtitle.dread.announcer.grenade": "Grenade lands",
+  "subtitle.dread.announcer.kill": "Kill!",
+  "subtitle.dread.announcer.double_kill": "Double Kill!",
+  "subtitle.dread.announcer.triple_kill": "Triple Kill!",
+  "subtitle.dread.announcer.quadrakill": "Overkill!",
+  "subtitle.dread.announcer.pentakill": "Killtacular!",
+  "subtitle.dread.announcer.excessive": "Killtrocity!",
+  "subtitle.dread.announcer.death": "Game Over!"
+}
